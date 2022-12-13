@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloud-computing-364304",
+  "private_key_id": "4df09332ad77ce39dc109fe8d21f13d9e7f171e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC99zhIAZVWq+SW\nyZf6P3GLQzSvjlYp1brV3IAu6xnWgDHWKlxiLXN8LR558mUx+crbX0EIK1WC0OQ0\n86OCNIsll7ra4NxAnCM3Kzo/PCv6J+ig9DyvtKqfAYxPO8f9Ya8P6mSU1NPH1drE\n0EbGW7+i1g2R27WunUpmwjIJsu0U+i2yJqBC9qVg0JZFCBWqXLh9AzRJVBeUoKS5\nxPyBKOzYu1AyDdapMZfQtAygNatDLwjpWwAK8tzET7IHpuWCd3ax7cogiTNXaNFv\nd/zZJlzf0ZC/OvpUsgn6EHDJNjeGfeedk/uLT57ktNNXCr+vSjm7vWVFeK+KgKNX\ndbRvpcctAgMBAAECggEAD4HNVy9t5z/WmVUxMffuMbiVkJkqwR/V2xxfXbUftv9g\nUhkY0S41pawx4dw0KjgNDmBVuNrUuv4zYCaIBpp5xg1UmbEjuaXP8sfKvvEPWUyF\ntGc2Rv+VXVqCf3tOpYlNAZxtg9VlyQPU58kQEKQvs2q20TJ2v8ojkdowvH2d1d7m\n2tEZrFCaP2IeGwZL6/Oeee+DfgZyzQYigV5K6xDI6tKUfp5PzpeLv+rdqGzQEBg1\nLg/rcMZeqRypSPm7v114IiWKLx9fjz+3rvxWG07JZMDYRXujaCM3rQI2jGidECtY\n4toiTB1gzJTvKjExU4EbZR8A4FMjCcPBFk6/cgWaPwKBgQDuz6F6lnD7B/qHWi7O\nlcGSaNqXgS6leXCEcewm5irhNLLt7twMlkr3tvyIPBLFTJOmIHuhsNRBwLMdYPNA\nvaUcJ1ucWFIHMKoeuN4xfzfFNOOJUtwkHjh4YOAVl8O/eLedrB1Y9zh+qsty1Dum\n/bbCO333mWRVJFgEAKas7uzbKwKBgQDLo46bO/oiVBjochEt5gMibnCX2/OsDFti\nA11Uqsosvb7N41MKxCztcF8JB+UlWwsTPeXP/8Snp+dm8i3pIO0kkx7Ise4Bjqh7\naR6YVY8DtSB2uiyQylLRTW25P5JZAh5yCJtas27VrL7C0Rf3VNeWwNpPMt6vjGDf\nG1pCKArbBwKBgFVCn95Kc8/MC2/jjK6I3PFOqixJHMRLVRaULcG9jzWUQQWdr8Z2\nqhFCrWpeOD1kl5pKIpmZrk5DZC9q+63zh01D5/srtS2H/FS3n+yABQNNXKcchCgI\n+hRQUfCjnGlxyexrFJc8vFjM1ZILn7iBAIzb/J83jpCvRxU2vksjikC9AoGAZmCP\n7VM16dRFwXa3VE/y+3hyeqZF1xVPS/NNFKfYhK3QI0pKEXuW6rg3zx59AU7IPqA7\nzVpUz8UF/Sd8FVxMXLrqGxP5CCdkZMbwbr107PQ+ofHvPcu53ygCJcPkG4OJMuNI\n10ymSB5UuTTNy7aHvG6wUmjMs4zrlr71nZTsADkCgYEAz7vRQH8cBIIBZ4tAuqSn\nPHOnDDMktPWqFj1my3Mr/RdS6jA0G5/59rVg/Ax7QR6IcZ+BaN3yt/S+uLJNb3zJ\ntpOoZkH3pXmGKnMBrQhUAmcHIF35ve5V/FJEMdsPp+7IaAlbJaIL1mkxPRM11WRS\nHcEhhekRaCeZEWVJeSfDuvk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "aliyyaps@cloud-computing-364304.iam.gserviceaccount.com",
+  "client_id": "117642524211886879405",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aliyyaps%40cloud-computing-364304.iam.gserviceaccount.com"
+}
